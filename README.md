@@ -1,1 +1,1 @@
-# hydra-explorer
+# hydra-thingy
